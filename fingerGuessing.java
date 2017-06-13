@@ -28,7 +28,7 @@ class Rules
 		if(gamer == computer)
 			return 1;
 		else if (gamer == (computer-1) || (gamer == 3 && computer == 1))
-			return 2;
+			return 2;////
 		else 
 			return 3;////////
 	}

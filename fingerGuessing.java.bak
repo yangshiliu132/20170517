@@ -30,7 +30,7 @@ class Rules
 		else if (gamer == (computer-1) || (gamer == 3 && computer == 1))
 			return 2;
 		else 
-			return 3;
+			return 3;////////
 	}
 } 		
 
